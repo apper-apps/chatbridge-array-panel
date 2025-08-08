@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "id": "agent_sarah",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@company.com", 
+    "status": "online",
+    "department": "Customer Support",
+    "specialties": ["General Support", "Account Issues", "Technical Help"],
+    "activeChats": 3,
+    "maxChats": 5,
+    "avatar": null,
+    "joinedAt": "2023-03-15T09:00:00.000Z",
+    "lastActive": "2024-01-15T11:30:00.000Z",
+    "stats": {
+      "totalChats": 1247,
+      "averageRating": 4.8,
+      "responseTime": "2m 15s"
+    }
+  },
+  {
+    "Id": 2,
+    "id": "agent_mike",
+    "name": "Mike Rodriguez",
+    "email": "mike.rodriguez@company.com",
+    "status": "busy",
+    "department": "Technical Support", 
+    "specialties": ["Technical Issues", "Bug Reports", "Integrations"],
+    "activeChats": 4,
+    "maxChats": 4,
+    "avatar": null,
+    "joinedAt": "2023-01-10T09:00:00.000Z",
+    "lastActive": "2024-01-15T11:25:00.000Z",
+    "stats": {
+      "totalChats": 892,
+      "averageRating": 4.9,
+      "responseTime": "1m 45s"
+    }
+  },
+  {
+    "Id": 3,
+    "id": "agent_lisa",
+    "name": "Lisa Chen",
+    "email": "lisa.chen@company.com",
+    "status": "away",
+    "department": "Sales Support",
+    "specialties": ["Product Information", "Sales", "Pricing"],
+    "activeChats": 1,
+    "maxChats": 6,
+    "avatar": null,
+    "joinedAt": "2023-06-01T09:00:00.000Z",
+    "lastActive": "2024-01-15T10:45:00.000Z",
+    "stats": {
+      "totalChats": 634,
+      "averageRating": 4.7,
+      "responseTime": "3m 02s"
+    }
+  },
+  {
+    "Id": 4,
+    "id": "agent_david",
+    "name": "David Thompson", 
+    "email": "david.thompson@company.com",
+    "status": "offline",
+    "department": "Billing Support",
+    "specialties": ["Billing", "Payments", "Subscriptions", "Refunds"],
+    "activeChats": 0,
+    "maxChats": 5,
+    "avatar": null,
+    "joinedAt": "2023-02-20T09:00:00.000Z",
+    "lastActive": "2024-01-14T17:30:00.000Z",
+    "stats": {
+      "totalChats": 1089,
+      "averageRating": 4.6,
+      "responseTime": "2m 30s"
+    }
+  }
+]

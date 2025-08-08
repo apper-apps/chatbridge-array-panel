@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "category": "greeting",
+    "keywords": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening"],
+    "responses": [
+      "Hello! Welcome to our support chat. How can I help you today?",
+      "Hi there! I'm here to help. What can I assist you with?",
+      "Good day! I'm your virtual assistant. How may I help you?",
+      "Welcome! I'm here to answer your questions and help you get started."
+    ]
+  },
+  {
+    "Id": 2,
+    "category": "login_help",
+    "keywords": ["login", "sign in", "password", "account", "credentials", "access"],
+    "responses": [
+      "I can help you with login issues! Are you having trouble remembering your password or getting an error message?",
+      "Login problems can be frustrating. Let me help you resolve this. What specific issue are you experiencing?",
+      "I understand you're having trouble with your account access. Can you tell me what error you're seeing?",
+      "I'm here to help with your login issue. For account security, let me connect you with one of our specialists."
+    ]
+  },
+  {
+    "Id": 3,
+    "category": "billing",
+    "keywords": ["billing", "payment", "invoice", "charge", "subscription", "price", "cost", "refund"],
+    "responses": [
+      "I'd be happy to help with billing questions! For detailed billing inquiries, let me connect you with one of our billing specialists.",
+      "Billing questions are important, and I want to make sure you get accurate information. Let me transfer you to our billing team.",
+      "I understand you have questions about billing. Our billing specialists can provide you with detailed information about your account.",
+      "For billing and payment questions, I'll connect you with a specialist who can access your account details securely."
+    ]
+  },
+  {
+    "Id": 4,
+    "category": "technical_support",
+    "keywords": ["bug", "error", "not working", "broken", "issue", "problem", "technical", "glitch"],
+    "responses": [
+      "I'm sorry you're experiencing technical difficulties. Let me connect you with our technical support team for immediate assistance.",
+      "Technical issues can be frustrating. Our support specialists are experts at resolving these problems quickly.",
+      "I want to make sure your technical issue is resolved properly. Let me transfer you to a technical support agent.",
+      "For technical problems, our specialists have the tools and knowledge to help you effectively."
+    ]
+  },
+  {
+    "Id": 5,
+    "category": "product_info",
+    "keywords": ["features", "premium", "plans", "upgrade", "product", "service", "what does", "how does"],
+    "responses": [
+      "Great question about our products! I'd love to connect you with a product specialist who can give you detailed information.",
+      "Our products have many exciting features! Let me connect you with someone who can walk you through everything.",
+      "I'm excited to tell you about our offerings! Our sales team can provide you with comprehensive product information.",
+      "Product questions are always welcome! Let me transfer you to a specialist who can discuss all the details with you."
+    ]
+  },
+  {
+    "Id": 6,
+    "category": "hours_contact",
+    "keywords": ["hours", "contact", "phone", "email", "schedule", "when", "time", "availability"],
+    "responses": [
+      "Our customer support is available Monday through Friday, 9:00 AM to 6:00 PM EST. Our chat support is available 24/7!",
+      "You can reach us through this chat anytime, or call us during business hours: Monday-Friday, 9 AM to 6 PM EST.",
+      "We're here to help! Chat support is available 24/7, and our phone support is Monday-Friday, 9:00 AM to 6:00 PM EST.",
+      "Great question! This chat is available 24/7, and our human agents are available Monday through Friday, 9 AM-6 PM EST."
+    ]
+  },
+  {
+    "Id": 7,
+    "category": "thanks",
+    "keywords": ["thank", "thanks", "appreciate", "helpful", "great"],
+    "responses": [
+      "You're very welcome! I'm glad I could help. Is there anything else you need assistance with?",
+      "It's my pleasure to help! Feel free to reach out anytime if you have more questions.",
+      "Thank you for your kind words! I'm here whenever you need support.",
+      "I'm so happy I could assist you! Don't hesitate to contact us again if you need help."
+    ]
+  },
+  {
+    "Id": 8,
+    "category": "goodbye",
+    "keywords": ["bye", "goodbye", "see you", "later", "done", "finished"],
+    "responses": [
+      "Goodbye! Thank you for choosing our service. Have a wonderful day!",
+      "Take care! We're always here if you need help in the future.",
+      "Thank you for chatting with us today! Feel free to return anytime.",
+      "Have a great day! Remember, we're here 24/7 if you need assistance."
+    ]
+  }
+]

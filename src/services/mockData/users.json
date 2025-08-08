@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "id": "user_john_doe",
+    "sessionId": "session_12345",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "lastSeen": "2024-01-15T10:45:00.000Z",
+    "metadata": {
+      "userAgent": "Chrome/120.0.0.0",
+      "location": "New York, US",
+      "referrer": "https://google.com"
+    }
+  },
+  {
+    "Id": 2,
+    "id": "user_jane_smith",
+    "sessionId": "session_67890", 
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "lastSeen": "2024-01-15T09:20:00.000Z",
+    "metadata": {
+      "userAgent": "Safari/17.0",
+      "location": "California, US",
+      "referrer": "https://example.com/products"
+    }
+  },
+  {
+    "Id": 3,
+    "id": "user_mike_wilson",
+    "sessionId": "session_11111",
+    "name": "Mike Wilson", 
+    "email": "mike.wilson@example.com",
+    "lastSeen": "2024-01-15T08:30:00.000Z",
+    "metadata": {
+      "userAgent": "Firefox/121.0",
+      "location": "Texas, US",
+      "referrer": "direct"
+    }
+  },
+  {
+    "Id": 4,
+    "id": "user_lisa_brown",
+    "sessionId": "session_22222",
+    "name": "Lisa Brown",
+    "email": "lisa.brown@example.com",
+    "lastSeen": "2024-01-15T11:15:00.000Z",
+    "metadata": {
+      "userAgent": "Chrome/120.0.0.0",
+      "location": "Florida, US", 
+      "referrer": "https://facebook.com"
+    }
+  },
+  {
+    "Id": 5,
+    "id": "user_david_clark",
+    "sessionId": "session_33333",
+    "name": "David Clark",
+    "email": "david.clark@example.com",
+    "lastSeen": "2024-01-15T07:50:00.000Z",
+    "metadata": {
+      "userAgent": "Edge/120.0.0.0",
+      "location": "Washington, US",
+      "referrer": "https://linkedin.com"
+    }
+  }
+]

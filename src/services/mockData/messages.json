@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "id": "msg_1",
+    "conversationId": "conv_1",
+    "sender": "user",
+    "content": "Hi, I'm having trouble with my account login",
+    "timestamp": "2024-01-15T10:30:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 2,
+    "id": "msg_2",
+    "conversationId": "conv_1",
+    "sender": "bot",
+    "content": "I understand you're having trouble with your account login. Let me help you with that! Can you tell me what error message you're seeing?",
+    "timestamp": "2024-01-15T10:31:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 3,
+    "id": "msg_3",
+    "conversationId": "conv_1",
+    "sender": "user",
+    "content": "It says 'Invalid credentials' but I'm sure my password is correct",
+    "timestamp": "2024-01-15T10:32:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 4,
+    "id": "msg_4",
+    "conversationId": "conv_1",
+    "sender": "agent",
+    "content": "Hi! I'm Sarah from our support team. I can help you with this login issue. Let me check your account status for you.",
+    "timestamp": "2024-01-15T10:35:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 5,
+    "id": "msg_5",
+    "conversationId": "conv_1",
+    "sender": "agent",
+    "content": "I see the issue - your account was temporarily locked due to multiple failed login attempts. I've unlocked it for you now. Please try logging in again.",
+    "timestamp": "2024-01-15T10:37:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 6,
+    "id": "msg_6",
+    "conversationId": "conv_1",
+    "sender": "user",
+    "content": "Perfect! It's working now. Thank you so much for your help!",
+    "timestamp": "2024-01-15T10:40:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 7,
+    "id": "msg_7",
+    "conversationId": "conv_2",
+    "sender": "user",
+    "content": "Hello, I need help with billing questions",
+    "timestamp": "2024-01-15T09:15:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 8,
+    "id": "msg_8",
+    "conversationId": "conv_2",
+    "sender": "bot",
+    "content": "I'd be happy to help you with billing questions! For detailed billing inquiries, let me connect you with one of our billing specialists who can provide you with accurate information.",
+    "timestamp": "2024-01-15T09:16:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 9,
+    "id": "msg_9",
+    "conversationId": "conv_2",
+    "sender": "user",
+    "content": "That would be great, thank you",
+    "timestamp": "2024-01-15T09:17:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 10,
+    "id": "msg_10",
+    "conversationId": "conv_3",
+    "sender": "user",
+    "content": "Can you help me reset my password?",
+    "timestamp": "2024-01-15T08:00:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 11,
+    "id": "msg_11",
+    "conversationId": "conv_3",
+    "sender": "bot",
+    "content": "I can definitely help you reset your password! I'll guide you through the password reset process step by step.",
+    "timestamp": "2024-01-15T08:01:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 12,
+    "id": "msg_12",
+    "conversationId": "conv_3",
+    "sender": "agent",
+    "content": "Hi there! I'm Sarah, and I'll help you with the password reset. I've just sent a password reset link to your registered email address. Please check your inbox and spam folder.",
+    "timestamp": "2024-01-15T08:05:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 13,
+    "id": "msg_13",
+    "conversationId": "conv_3",
+    "sender": "user",
+    "content": "Got it! Thanks for the help, everything is working now.",
+    "timestamp": "2024-01-15T08:15:00.000Z",
+    "type": "text",
+    "isRead": true
+  },
+  {
+    "Id": 14,
+    "id": "msg_14",
+    "conversationId": "conv_4",
+    "sender": "user",
+    "content": "Hi there! I'm interested in your premium features. Can you tell me more about them?",
+    "timestamp": "2024-01-15T11:00:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 15,
+    "id": "msg_15",
+    "conversationId": "conv_4",
+    "sender": "bot",
+    "content": "Great question! I'd love to tell you about our premium features. Our premium plan includes advanced analytics, priority support, custom integrations, and much more. Would you like me to connect you with a sales specialist for detailed information?",
+    "timestamp": "2024-01-15T11:01:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 16,
+    "id": "msg_16",
+    "conversationId": "conv_4",
+    "sender": "user",
+    "content": "Yes, that would be perfect!",
+    "timestamp": "2024-01-15T11:05:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 17,
+    "id": "msg_17",
+    "conversationId": "conv_5",
+    "sender": "user",
+    "content": "Quick question - what are your business hours?",
+    "timestamp": "2024-01-15T07:45:00.000Z",
+    "type": "text",
+    "isRead": false
+  },
+  {
+    "Id": 18,
+    "id": "msg_18",
+    "conversationId": "conv_5",
+    "sender": "bot",
+    "content": "Our customer support is available Monday through Friday, 9:00 AM to 6:00 PM EST. Our chat support is available 24/7 through this chatbot, and human agents are available during business hours for more complex inquiries.",
+    "timestamp": "2024-01-15T07:46:00.000Z",
+    "type": "text",
+    "isRead": false
+  }
+]

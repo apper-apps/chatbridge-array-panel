@@ -1,0 +1,76 @@
+[
+  {
+    "Id": 1,
+    "id": "default_config",
+    "name": "Default Configuration",
+    "position": "bottom-right",
+    "colors": {
+      "primary": "#4F46E5",
+      "secondary": "#7C3AED", 
+      "accent": "#06B6D4",
+      "background": "#FFFFFF",
+      "text": "#1F2937",
+      "textSecondary": "#6B7280"
+    },
+    "texts": {
+      "widgetButton": "Chat with us",
+      "header": "Customer Support",
+      "welcome": "Hi! How can we help you today?",
+      "placeholder": "Type your message...",
+      "offlineMessage": "We're currently offline. Leave us a message and we'll get back to you!"
+    },
+    "triggers": {
+      "showAfterSeconds": 30,
+      "showOnExit": true,
+      "showOnScroll": 50,
+      "hideOnMobile": false
+    },
+    "settings": {
+      "enableSound": true,
+      "enableTypingIndicator": true,
+      "enableFileUpload": false,
+      "enableRating": true,
+      "maxMessageLength": 1000
+    },
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T12:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "id": "sales_config",
+    "name": "Sales Team Configuration",
+    "position": "bottom-left",
+    "colors": {
+      "primary": "#10B981",
+      "secondary": "#059669",
+      "accent": "#34D399",
+      "background": "#FFFFFF", 
+      "text": "#1F2937",
+      "textSecondary": "#6B7280"
+    },
+    "texts": {
+      "widgetButton": "Talk to Sales",
+      "header": "Sales Support",
+      "welcome": "Interested in our products? Let's chat about how we can help your business grow!",
+      "placeholder": "Ask us about pricing, features, or demos...",
+      "offlineMessage": "Our sales team will be back soon! Leave your contact info and we'll reach out."
+    },
+    "triggers": {
+      "showAfterSeconds": 15,
+      "showOnExit": true,
+      "showOnScroll": 25,
+      "hideOnMobile": false
+    },
+    "settings": {
+      "enableSound": true,
+      "enableTypingIndicator": true,
+      "enableFileUpload": true,
+      "enableRating": false,
+      "maxMessageLength": 2000
+    },
+    "isActive": false,
+    "createdAt": "2024-01-05T00:00:00.000Z", 
+    "updatedAt": "2024-01-10T12:00:00.000Z"
+  }
+]

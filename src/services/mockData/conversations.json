@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "id": "conv_1",
+    "userId": "user_john_doe",
+    "agentId": "agent_sarah",
+    "status": "active",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "lastActivity": "2024-01-15T10:45:00.000Z",
+    "metadata": {
+      "source": "website",
+      "priority": "normal"
+    }
+  },
+  {
+    "Id": 2,
+    "id": "conv_2", 
+    "userId": "user_jane_smith",
+    "agentId": null,
+    "status": "waiting",
+    "createdAt": "2024-01-15T09:15:00.000Z",
+    "lastActivity": "2024-01-15T09:20:00.000Z",
+    "metadata": {
+      "source": "website",
+      "priority": "high"
+    }
+  },
+  {
+    "Id": 3,
+    "id": "conv_3",
+    "userId": "user_mike_wilson",
+    "agentId": "agent_sarah",
+    "status": "closed",
+    "createdAt": "2024-01-15T08:00:00.000Z",
+    "lastActivity": "2024-01-15T08:30:00.000Z",
+    "metadata": {
+      "source": "mobile",
+      "priority": "normal",
+      "resolved": true
+    }
+  },
+  {
+    "Id": 4,
+    "id": "conv_4",
+    "userId": "user_lisa_brown",
+    "agentId": null,
+    "status": "active",
+    "createdAt": "2024-01-15T11:00:00.000Z",
+    "lastActivity": "2024-01-15T11:15:00.000Z",
+    "metadata": {
+      "source": "website",
+      "priority": "normal"
+    }
+  },
+  {
+    "Id": 5,
+    "id": "conv_5",
+    "userId": "user_david_clark",
+    "agentId": "agent_sarah", 
+    "status": "waiting",
+    "createdAt": "2024-01-15T07:45:00.000Z",
+    "lastActivity": "2024-01-15T07:50:00.000Z",
+    "metadata": {
+      "source": "website",
+      "priority": "low"
+    }
+  }
+]
