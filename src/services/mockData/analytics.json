@@ -1,0 +1,220 @@
+[
+  {
+    "Id": 1,
+    "type": "conversation_created",
+    "value": 1,
+    "timestamp": "2024-01-15T10:30:00.000Z",
+    "metadata": {
+      "userId": "user_john_doe",
+      "source": "website",
+      "page": "/chat"
+    }
+  },
+  {
+    "Id": 2,
+    "type": "response_time",
+    "value": 120,
+    "timestamp": "2024-01-15T10:31:00.000Z",
+    "metadata": {
+      "conversationId": "conv_1",
+      "agentId": "bot",
+      "messageId": "msg_2"
+    }
+  },
+  {
+    "Id": 3,
+    "type": "satisfaction",
+    "value": 4.5,
+    "timestamp": "2024-01-15T10:45:00.000Z",
+    "metadata": {
+      "conversationId": "conv_1",
+      "userId": "user_john_doe"
+    }
+  },
+  {
+    "Id": 4,
+    "type": "agent_handoff",
+    "value": 1,
+    "timestamp": "2024-01-15T10:35:00.000Z",
+    "metadata": {
+      "conversationId": "conv_1",
+      "fromBot": true,
+      "toAgent": "agent_sarah"
+    }
+  },
+  {
+    "Id": 5,
+    "type": "conversation_resolved",
+    "value": 1,
+    "timestamp": "2024-01-15T10:45:00.000Z",
+    "metadata": {
+      "conversationId": "conv_1",
+      "resolutionTime": 900,
+      "agentId": "agent_sarah"
+    }
+  },
+  {
+    "Id": 6,
+    "type": "page_view",
+    "value": 1,
+    "timestamp": "2024-01-15T09:15:00.000Z",
+    "metadata": {
+      "userId": "user_jane_smith",
+      "page": "/support",
+      "referrer": "https://google.com"
+    }
+  },
+  {
+    "Id": 7,
+    "type": "response_time",
+    "value": 95,
+    "timestamp": "2024-01-15T09:16:00.000Z",
+    "metadata": {
+      "conversationId": "conv_2",
+      "agentId": "bot",
+      "messageId": "msg_8"
+    }
+  },
+  {
+    "Id": 8,
+    "type": "user_engagement",
+    "value": 300,
+    "timestamp": "2024-01-15T09:20:00.000Z",
+    "metadata": {
+      "userId": "user_jane_smith",
+      "sessionDuration": 300,
+      "pagesViewed": 3
+    }
+  },
+  {
+    "Id": 9,
+    "type": "conversation_created",
+    "value": 1,
+    "timestamp": "2024-01-15T08:00:00.000Z",
+    "metadata": {
+      "userId": "user_mike_wilson",
+      "source": "mobile",
+      "page": "/chat"
+    }
+  },
+  {
+    "Id": 10,
+    "type": "response_time",
+    "value": 85,
+    "timestamp": "2024-01-15T08:01:00.000Z",
+    "metadata": {
+      "conversationId": "conv_3",
+      "agentId": "bot",
+      "messageId": "msg_11"
+    }
+  },
+  {
+    "Id": 11,
+    "type": "agent_handoff",
+    "value": 1,
+    "timestamp": "2024-01-15T08:05:00.000Z",
+    "metadata": {
+      "conversationId": "conv_3",
+      "fromBot": true,
+      "toAgent": "agent_sarah"
+    }
+  },
+  {
+    "Id": 12,
+    "type": "satisfaction",
+    "value": 4.8,
+    "timestamp": "2024-01-15T08:30:00.000Z",
+    "metadata": {
+      "conversationId": "conv_3",
+      "userId": "user_mike_wilson"
+    }
+  },
+  {
+    "Id": 13,
+    "type": "conversation_resolved",
+    "value": 1,
+    "timestamp": "2024-01-15T08:30:00.000Z",
+    "metadata": {
+      "conversationId": "conv_3",
+      "resolutionTime": 1800,
+      "agentId": "agent_sarah"
+    }
+  },
+  {
+    "Id": 14,
+    "type": "page_view",
+    "value": 1,
+    "timestamp": "2024-01-15T11:00:00.000Z",
+    "metadata": {
+      "userId": "user_lisa_brown",
+      "page": "/pricing",
+      "referrer": "https://facebook.com"
+    }
+  },
+  {
+    "Id": 15,
+    "type": "conversation_created",
+    "value": 1,
+    "timestamp": "2024-01-15T11:00:00.000Z",
+    "metadata": {
+      "userId": "user_lisa_brown",
+      "source": "website",
+      "page": "/pricing"
+    }
+  },
+  {
+    "Id": 16,
+    "type": "response_time",
+    "value": 110,
+    "timestamp": "2024-01-15T11:01:00.000Z",
+    "metadata": {
+      "conversationId": "conv_4",
+      "agentId": "bot",
+      "messageId": "msg_15"
+    }
+  },
+  {
+    "Id": 17,
+    "type": "user_engagement",
+    "value": 180,
+    "timestamp": "2024-01-15T11:15:00.000Z",
+    "metadata": {
+      "userId": "user_lisa_brown",
+      "sessionDuration": 180,
+      "pagesViewed": 2
+    }
+  },
+  {
+    "Id": 18,
+    "type": "page_view",
+    "value": 1,
+    "timestamp": "2024-01-15T07:45:00.000Z",
+    "metadata": {
+      "userId": "user_david_clark",
+      "page": "/contact",
+      "referrer": "https://linkedin.com"
+    }
+  },
+  {
+    "Id": 19,
+    "type": "conversation_created",
+    "value": 1,
+    "timestamp": "2024-01-15T07:45:00.000Z",
+    "metadata": {
+      "userId": "user_david_clark",
+      "source": "website",
+      "page": "/contact"
+    }
+  },
+  {
+    "Id": 20,
+    "type": "response_time",
+    "value": 75,
+    "timestamp": "2024-01-15T07:46:00.000Z",
+    "metadata": {
+      "conversationId": "conv_5",
+      "agentId": "bot",
+      "messageId": "msg_18"
+    }
+  }
+]
